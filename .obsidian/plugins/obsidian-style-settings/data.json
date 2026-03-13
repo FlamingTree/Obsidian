@@ -1,5 +1,6 @@
 {
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
-  "blue-topaz-theme@@background-image-settings-switch": false
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@callout-style-settings": "admonition-bg-color-same"
 }

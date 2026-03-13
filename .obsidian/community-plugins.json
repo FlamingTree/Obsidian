@@ -4,7 +4,11 @@
   "obsidian-git",
   "obsidian-linter",
   "highlightr-plugin",
-  "pdf-plus",
   "omnisearch",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-hover-editor",
+  "better-search-views",
+  "settings-search",
+  "pdf-plus",
+  "editing-toolbar"
 ]
