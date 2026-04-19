@@ -4,45 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a9c13eab20736223",
+        "id": "f3de604f92d8528c",
         "type": "tabs",
-        "dimension": 66.03641456582633,
         "children": [
           {
-            "id": "a9aada24e11c67b5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "DeepLearning/深度学习入门5 生成模型/深度学习入门5 生成模型.pdf",
-                "page": 37,
-                "left": -28,
-                "top": 387,
-                "zoom": 0.5527978339350181
-              },
-              "icon": "lucide-file-text",
-              "title": "深度学习入门5 生成模型"
-            }
-          }
-        ]
-      },
-      {
-        "id": "02d9c9f7ddccb899",
-        "type": "tabs",
-        "dimension": 33.96358543417367,
-        "children": [
-          {
-            "id": "c672f2b69af1804e",
+            "id": "49a67b4fab611e26",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeepLearning/深度学习入门5 生成模型/步骤 1 正态分布.md",
+                "file": "DeepLearning/minimind/性能优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "步骤 1 正态分布"
+              "title": "性能优化"
             }
           }
         ]
@@ -195,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -209,6 +185,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -217,51 +197,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "37bb2818680d72c2",
+  "active": "49a67b4fab611e26",
   "lastOpenFiles": [
-    "DeepLearning/minimind 学习笔记",
-    "DeepLearning/深度学习入门5 生成模型/步骤 1 正态分布.md",
-    "DeepLearning/深度学习入门5 生成模型/深度学习入门5 生成模型.pdf",
-    "DeepLearning/深度学习进阶 自然语言处理/第 6 章 Gated RNN.md",
-    "DeepLearning/深度强化学习/深度强化学习.pdf",
-    "DeepLearning/Untitled.md",
-    "DeepLearning/深度学习入门5 生成模型",
-    "DeepLearning/深度强化学习/第 19 章 现实世界中的应用.md",
-    "DeepLearning/深度强化学习/第 18 章 AlphaGo 与蒙特卡洛树搜索.md",
-    "DeepLearning/深度强化学习/第 17 章 注意力机制与多智能体强化学习.md",
-    "DeepLearning/深度强化学习/第 16 章 非合作关系设定下的多智能体强化学习.md",
-    "DeepLearning/从零构建大模型/附录 F 理解推理大预言模型：构建与优化推理模型的方法和策略.md",
     "DeepLearning/从零构建大模型/从零构建大模型.pdf",
-    "DeepLearning/从零构建大模型/附录 E 使用 LoRA 进行参数高效微调.md",
-    "DeepLearning/从零构建大模型/附录 D 为训练循环添加更多细节和优化功能.md",
-    "DeepLearning/从零构建大模型/附录 A PyTorch 简介.md",
-    "DeepLearning/从零构建大模型/第 7 章 通过微调遵循人类指令.md",
-    "DeepLearning/从零构建大模型/第 6 章 针对分类的微调.md",
-    "DeepLearning/深度学习 基础与概念",
-    "DeepLearning/从零构建大模型/从零构建大模型.pdf~",
-    "DeepLearning/深度学习进阶 自然语言处理/深度学习进阶 自然语言处理.pdf",
-    "DeepLearning/深度学习进阶 自然语言处理/第 8 章 Attention.md",
-    "DeepLearning/从零构建大模型/第 1 章 理解大预言模型.md",
-    "DeepLearning/从零构建大模型/第 5 章 在无标签数据上进行预训练.md",
+    "DeepLearning/minimind/性能优化.md",
     "DeepLearning/从零构建大模型/第 4 章 从头实现 GPT 模型进行文本生成.md",
-    "DeepLearning/从零构建大模型/第 3 章 编码注意力机制.md",
-    "DeepLearning/从零构建大模型/第 2 章 处理文本数据.md",
-    "2026-03-16.md",
+    "DeepLearning/从零构建大模型/第 1 章 理解大预言模型.md",
+    "DeepLearning/minimind/from-minimind-to-more/架构篇：最常见的大模型优化方法：从KV Cache到Flash Attention.md",
+    "DeepLearning/ToDO List.md",
     "Untitled.canvas",
-    "DeepLearning/深度学习进阶 自然语言处理/第 7 章 基于 RNN 生成文本.md",
-    "DeepLearning/深度学习进阶 自然语言处理/第 5 章 RNN.md",
-    "DeepLearning/深度学习进阶 自然语言处理/第 4 章 word2vec 的高速化.md",
-    "DeepLearning/深度学习进阶 自然语言处理/第 3 章 word2vec.md",
-    "DeepLearning/深度学习进阶 自然语言处理/第 2 章 自然语言和单词的分布式表示.md",
-    "Untitled.base",
-    "Untitled 2.base",
-    "Untitled 1.base"
+    "2026-04-19.md",
+    "DeepLearning/minimind/大模型归一化技术.md",
+    "DeepLearning/minimind/from-minimind-to-more/架构篇：大语言模型归一化技术：原理、演进与前沿架构.md",
+    "DeepLearning/minimind/位置编码.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：Minimind的SPO.md",
+    "DeepLearning/minimind/from-minimind-to-more/README.md",
+    "DeepLearning/minimind/from-minimind-to-more/基石：Minimind的设计目录.md",
+    "DeepLearning/minimind/from-minimind-to-more/基石：语义的几何与时空的折叠：Embedding与位置编码.md",
+    "DeepLearning/minimind/from-minimind-to-more/基石：关于Tokenizer你所需要知道的一切.md",
+    "DeepLearning/minimind/from-minimind-to-more/图标.png",
+    "DeepLearning/minimind/from-minimind-to-more/大模型八股100问.md",
+    "Github 资料/算法篇：大模型强化学习算法概览.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：大模型强化学习算法概览.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：Minimind的SFT.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：Minimind的Pretrain.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：Minimind的PPO.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：Minimind的GRPO及其变体.md",
+    "DeepLearning/minimind/from-minimind-to-more/算法篇：Minimind的DPO.md",
+    "DeepLearning/minimind/from-minimind-to-more/架构篇：超级拼装.md",
+    "DeepLearning/minimind/from-minimind-to-more/架构篇：混合专家模型（MoE）：架构演进、核心算法与工程实践.md",
+    "DeepLearning/minimind/from-minimind-to-more/可选：大规模语言模型推理与训练优化机制.md",
+    "DeepLearning/minimind/from-minimind-to-more/assets/image-20260204154924789.png",
+    "DeepLearning/minimind/from-minimind-to-more/assets/image-20260204163121518.png",
+    "DeepLearning/minimind/from-minimind-to-more/assets/PPO框架图.png",
+    "DeepLearning/minimind/from-minimind-to-more/assets",
+    "DeepLearning/minimind/from-minimind-to-more",
+    "Github 资料/图标.png",
+    "Github 资料/assets/image-20260204163121518.png",
+    "Github 资料/assets/image-20260204154924789.png",
+    "Github 资料/assets/PPO框架图.png",
+    "Github 资料/assets",
+    "Github 资料",
+    "Github 资料",
+    "DeepLearning/深度学习入门5 生成模型/深度学习入门5 生成模型.pdf",
+    "DeepLearning/minimind",
+    "DeepLearning/深度强化学习/深度强化学习.pdf",
+    "DeepLearning/深度学习入门5 生成模型"
   ]
 }
