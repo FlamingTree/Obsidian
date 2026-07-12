@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "DeepLearning/深度强化学习/深度强化学习.pdf",
-                "page": 169,
-                "left": -18,
-                "top": 253,
-                "zoom": 0.868078887246338
+                "page": 170,
+                "left": -28,
+                "top": 119,
+                "zoom": 0.5543609729875016
               },
               "icon": "lucide-file-text",
               "title": "深度强化学习"
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
-    "collapsed": true
+    "width": 476.5
   },
   "right": {
     "id": "4b902bd306b8d86a",
@@ -227,8 +226,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "ff6b96ff4d53448d",
+  "active": "37bb2818680d72c2",
   "lastOpenFiles": [
+    "DeepLearning/minimind/from-minimind-to-more/src/readme.md",
+    "DeepLearning/minimind/from-minimind-to-more/src/BPE.py",
+    "DeepLearning/minimind/from-minimind-to-more/src",
     "DeepLearning/深度强化学习/深度强化学习.pdf",
     "DeepLearning/深度强化学习/第 10 章 连续控制.md",
     "DeepLearning/深度强化学习/第 18 章 AlphaGo 与蒙特卡洛树搜索.md",
@@ -270,7 +272,6 @@
     "Github 资料/assets/image-20260204154924789.png",
     "Github 资料/assets/PPO框架图.png",
     "Github 资料/assets",
-    "Github 资料",
     "Github 资料"
   ]
 }
