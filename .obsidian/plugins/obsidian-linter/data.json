@@ -280,7 +280,13 @@
   "settingsConvertedToConfigKeyValues": true,
   "additionalFileExtensions": [],
   "foldersToIgnore": [],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "minimind",
+      "match": "from-minimind-to-more",
+      "flags": "i"
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

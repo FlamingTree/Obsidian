@@ -8,6 +8,7 @@
   "vimMode": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
-  "showLineNumber": false
+  "readableLineLength": false,
+  "showLineNumber": false,
+  "focusNewTab": false
 }

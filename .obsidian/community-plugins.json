@@ -2,15 +2,17 @@
   "dataview",
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "obsidian-linter",
   "highlightr-plugin",
   "omnisearch",
   "obsidian-style-settings",
   "obsidian-hover-editor",
   "better-search-views",
   "settings-search",
-  "pdf-plus",
   "editing-toolbar",
   "various-complements",
-  "obsidian-link-embed"
+  "obsidian-link-embed",
+  "darlal-switcher-plus",
+  "open-tab-settings",
+  "automatic-table-of-contents",
+  "pdf-plus"
 ]
